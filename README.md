@@ -1,4 +1,4 @@
-Node Bootstrap Express React Starter Template
+Node.js Bootstrap Express React Starter Template
 ===
 
 A quick and easy Node.js + Express + React 4 template project, using Twitter Bootstrap and React Router for creating a simple single page application.
